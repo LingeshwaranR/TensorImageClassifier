@@ -12,6 +12,7 @@ Making a functional model.
 Tuninning the parameters.
 Output visual display of the results.
 Dependencies
+
 This module requires:
 
 Python 3.6.1
