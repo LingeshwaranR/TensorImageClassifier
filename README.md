@@ -1,6 +1,7 @@
 # TensorImageClassifier
 Overview
-Team DeepThings (Mez Gebre and I) won the Best Product Category at the Deep Learning Hackathon in San Francisco. We developed in three days a real-time system capable of identifying objects and speaking what it sees, thinking about making a useful tool for the visually impaired, as it could make navigation easier. Proof of concept on a laptop, final model running on Android.
+A real-time system capable of identifying objects and speaking what it sees, thinking about making a useful tool for the visually impaired, as it could make navigation easier. 
+Proof of concept on a laptop.
 
 This is only the first prototype for Windows.
 
@@ -15,13 +16,15 @@ Dependencies
 
 This module requires:
 
-Python 3.6.1
-Tensorflow-gpu 1.0
-Opencv 3.2
-Numpy 1.12
-Gtts 1.1
-Pygame 1.9
+1.Python 3.6.1
+2.Tensorflow-gpu 1.0
+3.Opencv 3.2
+4.Numpy 1.12
+5.Gtts 1.1
+6.Pygame 1.9
+
 Usage
-Just run: python #prac2.py
+Just run: python 
+# prac2.py
 
 
